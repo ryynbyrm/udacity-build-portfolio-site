@@ -1,0 +1,46 @@
+.titlePortfolio {
+	font-family: 'Indie Flower', cursive;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+}
+
+.titleProject {
+	font-family: 'Indie Flower', cursive;
+	font-weight: 400;	
+	text-align: right;
+	line-height: 2;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float:right;
+}
+
+.section{
+	color: red;
+}
+
+.img-portfolio {
+    max-height: 6em;
+}
+
+.headerCenter{
+	text-align:center;
+}
+
+p {
+	font-family: 'Indie Flower', cursive;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+}
+
+hr {
+    display: block;
+    border-top: 1px solid #7d97ad;
+    border-bottom: 1px solid #7d97ad;
+}
