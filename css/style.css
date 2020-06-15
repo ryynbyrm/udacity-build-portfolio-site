@@ -3,8 +3,18 @@
 	color: #5e5e5e;
 	font-weight: 300;
 	line-height: 1.5;
+	font-size: 2em;
 }
-
+.titlePortfolioSmall {
+	font-family: 'Indie Flower', cursive;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 1em;
+}
+.titleImage {	
+	max-width: 100px;
+}
 .titleProject {
 	font-family: 'Indie Flower', cursive;
 	font-weight: 400;	
